@@ -1,0 +1,38 @@
+.ismobile {
+  display: none;
+}
+.isdesktop {
+  /* padding: 15%; */
+  display: flex;
+}
+.managepromo {
+  margin-left: 120px;
+  width: 100%;
+}
+.managepromo-inner {
+  width: 97%;
+  margin: 10px;
+}
+.yellow-box {
+  width: 99%;
+}
+
+.row {
+  display: flex;
+}
+.right {
+  text-align: right;
+}
+
+@media screen and (max-width: 1200px) {
+  .isdesktop {
+    display: none;
+  }
+  .ismobile {
+    /* padding: 15%; */
+    display: flex;
+  }
+  .yellow-box {
+    width: 96%;
+  }
+}

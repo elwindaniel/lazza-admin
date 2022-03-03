@@ -1,0 +1,23 @@
+.mainPaper {
+  width: 99%;
+
+  margin-top: 10px;
+  margin-left: 16px;
+  align-items: "center";
+  /* [theme.breakpoints.down("sm")]: {
+      marginLeft: theme.spacing(0),
+    }, */
+}
+.spacewidth {
+  width: 0px;
+}
+@media screen and (max-width: 1200px) {
+  .mainPaper {
+    width: 94%;
+
+    margin-left: 0px;
+  }
+  .spacewidth {
+    width: 10px;
+  }
+}

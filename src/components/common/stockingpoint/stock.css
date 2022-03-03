@@ -1,0 +1,38 @@
+.customer {
+  margin-left: 120px;
+  width: 100%;
+}
+.customer-inner {
+  width: 97%;
+  margin: 10px;
+}
+.yellow-box {
+  width: 100%;
+}
+.units {
+  margin-left: 120px;
+  width: 100%;
+}
+.units-inner {
+  width: 97%;
+  margin: 10px;
+}
+.yellow-box {
+  width: 100%;
+}
+.buttons {
+  text-align: center;
+}
+.createbtn {
+  text-align: center;
+  border: 0;
+}
+.textFormik_flex8 {
+  background-color: #ffff;
+  border-color: rgba(165, 165, 165, 1);
+  border-radius: 5px;
+  height: 50px;
+  margin-bottom: 20px;
+  flex: 8;
+  font-size: 19px;
+}

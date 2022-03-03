@@ -1,0 +1,16 @@
+.filterform {
+border-style: groove;
+background-color: rgba(241, 241, 241, 1);
+/*display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+height: 200px;*/
+}
+
+.createfilter {
+    padding: 10px;
+}
+
+.form{
+    padding: 10px;
+}

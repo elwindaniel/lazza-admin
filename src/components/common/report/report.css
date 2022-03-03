@@ -1,0 +1,37 @@
+.managepromo {
+  margin-left: 120px;
+  width: 100%;
+}
+.managepromo-inner {
+  width: 97%;
+  margin: 10px;
+}
+.yellow-box {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+.right {
+  text-align: right;
+}
+.textreportField_flex8 {
+  background-color: #ffff;
+  border-color: rgba(165, 165, 165, 1);
+  border-radius: 5px;
+  /* height: 100%; */
+  width: 100%;
+  font-size: 19px;
+  margin: 13px;
+}
+.fieldcls {
+  display: flex;
+}
+.totalcls {
+  font-size: 20px;
+  text-align: right;
+  margin: 5px;
+  padding-right: 6%;
+  /* font-weight: 600; */
+}

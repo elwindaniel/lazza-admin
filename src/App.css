@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+}
+.appMsg {
+  display: none;
+}
+
+@media screen and (max-width: 1200px) {
+  .app {
+    display: none;
+  }
+  .appMsg {
+    /* padding: 15%; */
+    display: flex;
+  }
+}
+.class {
+  margin-left: 200px;
+}

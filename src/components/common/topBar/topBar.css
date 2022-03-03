@@ -1,0 +1,43 @@
+.topBarbody {
+  /* position: fixed; */
+  display: flex;
+  width: 99%;
+  height: 72px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.09);
+  box-sizing: border-box;
+}
+.TitleText {
+  flex: 2;
+  margin-left: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  color: #534c39;
+}
+.space {
+  flex: 3;
+}
+.pTextFlex {
+  flex: 2;
+  display: flex;
+  align-items: center;
+}
+.pText {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  align-items: center;
+  color: #000000;
+}
+.padding {
+  width: 20px;
+}
+.fa {
+  font-size: 20px;
+}

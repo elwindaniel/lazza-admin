@@ -1,0 +1,7 @@
+.yellowBoxBody {
+  width: 99%;
+  height: 72px;
+  background: #f8cd5e;
+  box-sizing: border-box;
+  border-radius: 4px;
+}

@@ -1,0 +1,18 @@
+.managepromo {
+  margin-left: 120px;
+  width: 100%;
+}
+.managepromo-inner {
+  width: 97%;
+  margin: 10px;
+}
+.yellow-box {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+.right {
+  text-align: right;
+}
